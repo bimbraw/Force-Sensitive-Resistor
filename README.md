@@ -13,3 +13,5 @@ Used Arduino Uno for this. Terminals connected according to https://learn.adafru
 Used a 3.3kOhm resistor.
 
 Used for force testing on Shimon Robot to spec out the new actuators.
+
+And for the Sitar Input project - for Technology Ensemble.
