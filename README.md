@@ -1,4 +1,4 @@
-# Force_Sensitive_Resistor
+# Force Sensitive Resistor
 Code for calibrated FSR on Arduino
 
 FSR dimensions - 
