@@ -1,5 +1,5 @@
 # Force Sensitive Resistor
-Code for calibrated FSR on Arduino
+Code for calibrated FSR on an Arduino Uno.
 
 FSR dimensions - 
 
@@ -8,7 +8,7 @@ Width - 18.48mm/0.73in
 Thickness - 0.55mm/0.02in
 Weight - 0.26g/0.01oz
 
-Used Arduino Uno for this. Tested on Arduino Mega as well. Terminals connected according to https://learn.adafruit.com/force-sensitive-resistor-fsr/using-an-fsr!
+Tested on both Uno and Mega. Terminals connected according to https://learn.adafruit.com/force-sensitive-resistor-fsr/using-an-fsr!
 
 Used a 3.3kOhm resistor.
 
